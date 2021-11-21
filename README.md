@@ -1,7 +1,6 @@
-## Olá! eu sou Carlos tavares
+## Olá! eu sou Carlos Tavares
 
-- 🔭 Hoje trabalho front-end
-- 🌱 Estudando Java-script 
+- 🌱 Estudando Java-script, html, css 
 
 <div align="center">
   <a href="https://github.com/CarlosTavares77">

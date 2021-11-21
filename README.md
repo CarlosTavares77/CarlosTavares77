@@ -1,6 +1,6 @@
 ## Olá! eu sou Carlos Tavares
 
-- 🌱 Estudando Java-script, html, css 
+- Estudando Java-script, html, css 
 
 <div align="center">
   <a href="https://github.com/CarlosTavares77">
